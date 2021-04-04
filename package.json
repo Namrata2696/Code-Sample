@@ -1,0 +1,87 @@
+{
+  "name": "halari",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/preset-env": "^7.12.16",
+    "@fortawesome/fontawesome-svg-core": "^1.2.34",
+    "@fortawesome/free-brands-svg-icons": "^5.15.2",
+    "@fortawesome/free-regular-svg-icons": "^5.15.2",
+    "@fortawesome/free-solid-svg-icons": "^5.15.2",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.3",
+    "@testing-library/user-event": "^12.6.0",
+    "axios": "^0.21.1",
+    "axios-mock-adapter": "^1.19.0",
+    "bootstrap": "^4.6.0",
+    "d3-ease": "^2.0.0",
+    "formik": "^2.2.6",
+    "google-map-react": "^2.1.9",
+    "jquery": "^3.5.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.9.0",
+    "react-bootstrap": "^1.5.0",
+    "react-circular-progressbar": "^2.0.3",
+    "react-countup": "^4.3.3",
+    "react-dom": "^16.9.0",
+    "react-dynamic-import": "^1.1.5",
+    "react-error-overlay": "^6.0.9",
+    "react-grid-gallery": "^0.5.5",
+    "react-html-parser": "^2.0.2",
+    "react-magnific-popup": "^1.0.1",
+    "react-move": "^6.4.0",
+    "react-owl-carousel": "^2.3.3",
+    "react-photo-gallery": "^8.0.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "react-scroll-to-top": "^1.0.5",
+    "react-sticky-header": "^0.2.0",
+    "react-transition-group": "^4.4.1",
+    "twilio": "^3.30.0",
+    "uncontrollable": "^7.2.1",
+    "web-vitals": "^0.2.4",
+    "yup": "^0.32.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "eslint-config-react": "^1.1.7"
+  },
+  "description": "Business Template",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagarramu/business-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagarramu/business-template/issues"
+  },
+  "homepage": "/#readme"
+}
